@@ -1,0 +1,14 @@
+Title: AI-based real-time Calamity Detection 
+
+The basic aim of this project was to develop and implement a system for image recognition which could be used for disaster mitigation and control. Our system focuses on images and videos from satellite feeds and online platforms, and analyzes them to provide consolidated data.
+This has been implemented in the Python programming language and uses Artificial Intelligence and Machine Learning algorithms.
+Steps involved in the creation of this system:
+1. DATABASE COLLECTION
+2. PREPROCESSING
+3. MODEL TRAINING AND TESTING
+
+This system has a very wide-ranging scope, encompassing the following:
+  1. Information Processing (combining multiple data streams)
+  2. Direct Image Recognition (using satellite, CCTV and cam images)  
+  3. Social Media Analysis (real-time information and images from social media sites)
+  4. Predictive Analysis (based on previous data and images)
